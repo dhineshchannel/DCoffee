@@ -1,6 +1,6 @@
 DCoffee - Great coffee good vibes
 
-This is a coffee shop html template made by codewithsadee
+This is a coffee shop
 
 
 
@@ -17,7 +17,7 @@ Opening Hours :
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
 Location :
-55 Main Street, New York
+13, Namakkal
 
 alt = DCoffee home
 
@@ -52,10 +52,11 @@ About Us
 
 Organic & Fresh Coffee Provider Center
 
-Sed ut perspiciatis unde omnis iste natus error voluptate accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur magni dolores eos qui ratione
+It is a cozy and inviting spot to relax, work, or meet up with friends. We offer a wide variety of coffee drinks, as well as tea, pastries, and light snacks. Our baristas are passionate about coffee and take pride in making each cup to perfection.
 
-alt = john doe
-Quis autem vel eum iure reprehenderit in ealuptate velit esse molestiae
+
+alt = DK
+Whether you're a regular or a first-timer, we hope you'll stop by Our Coffeehouse and experience our warm hospitality.
 
 alt = about banner
 
@@ -182,7 +183,7 @@ Contact Us
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
 Location :
-55 Main Street, New York
+13, Namakkal
 
 <ion-icon name="mail-unread-outline" aria-hidden="true"></ion-icon>
 Email Address :
@@ -196,4 +197,4 @@ Gallery
 
 alt = Gallery
 
-Copyright © 2022 codewithsadee. All Rights Reserved.
+Copyright © 2022 DCoffee. All Rights Reserved.
